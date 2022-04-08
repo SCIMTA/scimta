@@ -1,0 +1,23 @@
+{
+  "name": "scimta",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Offical website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCIMTA/scimta.git"
+  },
+  "author": "scimta",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SCIMTA/scimta/issues"
+  },
+  "homepage": "https://github.com/SCIMTA/scimta#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
